@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put your Subzero session-id here.",
       "required": true,
-      "value": ""
+      "value": "SUBZERO~da79fed91e78811656cebd82025681d391ba055d"
     }
   },
   "buildpacks": [
